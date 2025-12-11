@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
-import { CartProvider } from './context/CartContext';
+import { CartProvider } from './context/ShopContext';
 import { Layout } from './components/Layout';
 import { Login } from './pages/Login';
 import { Catalog } from './pages/Catalog';

@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1a0k-Na9Uc3MSfoVt3NVDfprn_4rDCjAv
+View your app in AI Studio: https://ai.studio/apps/drive/1eeZBGkhcvG6b1VyESzH457F0nl23ap9e
 
 ## Run Locally
 
@@ -18,4 +18,3 @@ View your app in AI Studio: https://ai.studio/apps/drive/1a0k-Na9Uc3MSfoVt3NVDfp
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-"# dicompel-vendas"  
